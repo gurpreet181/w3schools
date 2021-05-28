@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<?php include_once 'new.php';?>
+<?php include_once 'new.html';?>
 
 </body>
 </html>
