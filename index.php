@@ -9,7 +9,7 @@ content="width=device-width,initial-scale=1.0">
 <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.0.0/build/highlight.min.js"></script>
 <body>
 
-<?php include_once 'new.html';?>
+<?php include_once 'index.html';?>
 
 </body>
 </html>
